@@ -12,7 +12,7 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       // Nombre interno de la app (visible en tareas recientes en Android).
-      title: 'Mi primera app de FLUTTER',
+      title: 'VISTA DINAMICA',
 
       // Oculta la cinta "debug" en la esquina superior derecha.
       debugShowCheckedModeBanner: false,
